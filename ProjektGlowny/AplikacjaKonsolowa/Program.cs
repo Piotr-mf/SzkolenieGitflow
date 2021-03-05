@@ -12,6 +12,7 @@ namespace AplikacjaKonsolowa
             Console.WriteLine("Hello World!");
             test.TestBibliotekiWspolnej();
             test.TestNowejFunkcjonalnosciPiotr();
+            test.TestNowejFunkcjonalnościTomek();
         }
     }
 }
